@@ -6,7 +6,7 @@ pushed through the CIE 1931 colour matching functions into OKLCH.
 
 Dark only, on purpose.
 
-![cendre in Obsidian](preview.jpg)
+![cendre in Obsidian](screenshot.jpg)
 
 The derivation is laid out step by step at [cendretheme.com](https://cendretheme.com).
 
